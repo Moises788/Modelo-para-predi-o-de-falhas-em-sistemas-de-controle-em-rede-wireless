@@ -37,12 +37,15 @@ O seu desenvolvimento se encontra [aqui](https://github.com/Moises788/LAMP-IC-UF
 ### Resultados
 Até o momento, o melhor modelo se encontra com essas características:
 
- 
+Caracteristica       |   Valor
 --------- | ------
 Número de Neurônios | 20x20
 Epocas de Treinamento | 2810
-MAE |0.66478467
-MSE |1.0146297
-RMSE |0.60217106
+MAE | 0.66478467
+MSE | 1.0146297
+RMSE | 0.60217106
 
 
+
+### Comportamento do modelo para dados de teste
+![Modelo Selecionado](https://user-images.githubusercontent.com/52640097/232338381-3e9a1865-6e7d-4fd1-9987-ae6e3b1c699f.PNG)
