@@ -39,7 +39,7 @@ Até o momento, o melhor modelo se encontra com essas características:
 
 Caracteristica       |   Valor
 --------- | ------
-Número de Neurônios | 20x20
+Número de Neurônios | 2 camadas 20x20
 Epocas de Treinamento | 2810
 MAE | 0.66478467
 MSE | 1.0146297
