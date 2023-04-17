@@ -1,4 +1,4 @@
-# LAMP-IC-UFRN
+# Modelo para predição de falhas em sistemas de controle em rede wireless
 ## Esta documentação visa explicar de uma maneira mais amigável o desenvolvimento e resultados da minha bolsa de iniciação científica no LAMP-UFRN.
 
 > Status: Developing ⚠️
