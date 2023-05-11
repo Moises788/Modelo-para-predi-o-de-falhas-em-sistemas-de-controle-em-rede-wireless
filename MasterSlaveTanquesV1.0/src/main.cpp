@@ -28,8 +28,8 @@ IPAddress subnet(255, 255, 225, 0);             // subrede (LAMP)
 IPAddress gatewaySTD(10, 13, 96, 1);            // gateway padrão (LAMP)
 IPAddress primaryDNS(10, 13, 96, 17);           // DNS primário (LAMP)
 IPAddress secondaryDNS(192, 168, 1, 4);         // DNS secundário (LAMP)
-const char ssid[] = "LampLABA";                 // nome da rede Lab A
-const char pass[] = "udtqcSSONDodtqq";          // senha da rede */
+const char ssid[] = "SSID da usa rede";                 // nome da rede Lab A
+const char pass[] = "Senha da sua rede";          // senha da rede */
 
 const char ntp_server[] = "a.st1.ntp.br";       //servidor NTP
 
